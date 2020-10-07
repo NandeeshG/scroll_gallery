@@ -16,7 +16,9 @@ TODOS -
     - (window length changeable)
 4. Add multiple pictures in single window
 5. Use filesystem to get imglimit instead of hardcoding it 
-6. Show speed affects in comparison with loading 500 pictures at once
+6. Remove buttons in favor of scroll. Add multiple pics and zoom in so that only 1.5 pictures fill the screen at one time to get a good scroll experience.
+7. Address limitation 3 if possible
+8. Show speed affects in comparison with loading 500 pictures at once
 
 Limitations - 
 1. All pics should have a welldefined naming scheme with indexes, example pic12.jpg

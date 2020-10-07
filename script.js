@@ -21,11 +21,12 @@ window.onload = function(){
 //
 //window.addEventListener('scroll', function(e){scrollHandle(e)});
 
-var height,width
+var height,width   //of the window
+var adjust  //increase to reduce picture height
 var imgindex,imglimit
-var data_len,data_index
-var adjust
+
 var data = []
+var data_len,data_index  
 
 var init = function(){
     imgindex = 0
