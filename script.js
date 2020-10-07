@@ -29,7 +29,7 @@ var data = []
 
 var init = function(){
     imgindex = 0
-    imglimit = 88  //NEED TO HARDCODE THIS RN, Can use filesystem to count number of jpgs in my folder
+    imglimit = 88  //NEED TO HARDCODE THIS RN, Can use filesystem to count number of jpgs/pngs in my folder
 
     height = document.documentElement.clientHeight;
     width  = document.documentElement.clientWidth;
